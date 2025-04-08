@@ -6,7 +6,7 @@
 
 TG、抖音、快手ID：HaiFengFurry
 
-邮箱：vc48688974@163.com or 2133115301@qq.com
+邮箱：2133115301@qq.com
 
 #
 
