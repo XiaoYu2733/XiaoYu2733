@@ -4,8 +4,6 @@
 
 酷安：海枫HaiFeng
 
-TG、抖音、快手ID：HaiFengFurry
-
 邮箱：2133115301@qq.com
 
 #
