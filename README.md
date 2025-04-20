@@ -4,7 +4,7 @@
 
 酷安：海枫HaiFeng
 
-邮箱：2133115301@qq.com
+邮箱：haifengfurry@163.com
 
 #
 
