@@ -1,10 +1,4 @@
-# Hi 这里是海枫的个人主页，是一个男高中生，偏向furry 欢迎furry扩列
-
-## 扩列方式：
-
-酷安：海枫HaiFeng
-
-邮箱：haifengfurry@163.com
+# Hi 这里是海枫的个人主页，是一个高中生，比较喜欢furry
 
 #
 
