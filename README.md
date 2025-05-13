@@ -1,3 +1,1 @@
-# Hi 这里是海枫的个人主页，是一个高中生，比较喜欢furry
-
-# 欢迎联系：haifengfurry@163.com
+# Hi，有什么事情的话，欢迎联系：haifengfurry@163.com
