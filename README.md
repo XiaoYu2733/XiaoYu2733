@@ -1,1 +1,1 @@
-## 没啥话说 有事Telegram@HaiFengFurry_bot
+## 没啥话说 有事[Telegram](https://t.me/HaiFengFurry_bot)
