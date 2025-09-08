@@ -19,3 +19,19 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoYu2733&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XiaoYu2733&show_icons=true)
+
+| 图编号 | 描述 | 链接 |
+|--------|------|------|
+| 图2 | 系统架构图 | [#figure2](#figure2) |
+| 图3 | 数据流程图 | [#figure3](#figure3) |
+| 图4 | 性能对比图 | [#figure4](#figure4) |
+
+## 图表详情
+
+### 图2 {#figure2}
+![系统架构图](images/figure2.png)
+*系统架构图说明文字*
+
+### 图3 {#figure3}
+![数据流程图](images/figure3.png)
+*数据流程图说明文字*
