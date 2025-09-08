@@ -1,1 +1,3 @@
-## 没啥话说 有事[Telegram](https://t.me/HaiFengFurry_bot)说
+### Hi 这里是海枫的个人主页哦
+
+## QStory Plugin Developer
