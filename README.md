@@ -11,8 +11,7 @@
 ### 你可以通过[Telegam](https://t.me/HaiFengFurry_bot)来找到我 或许更方便的是：haifengfurry@163.com
 
 <div align="center">
-    <h1 > NewMusicBox </h1>
-
+    <h1 >  </h1>
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Channel&color=0088cc)](https://t.me/HaiFeng_Channel)
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc)](https://t.me/XiaoYu_Chat)
 </div>
