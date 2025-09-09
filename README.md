@@ -6,15 +6,15 @@
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc)](https://t.me/XiaoYu_Chat)
 </div>
 
-### 性别:未知
+### 性别:未知🤔
 ### 国籍:China🇨🇳
-### 学籍:高中生哦
+### 学籍:高中生哦☺️
 
-### QStory Plugin Developer
+### QStory Plugin Developer🐧
 
-### 擅长Java
+### 擅长Java lua js 等等 更多正在学习中……😴
 
-### 你可以通过[Telegam](https://t.me/HaiFengFurry_bot)来找到我 或许更方便的是：haifengfurry@163.com
+### 你可以通过 [Telegam_PM_Bot] (https://t.me/HaiFengFurry_bot)来找到我 或许更方便的是：haifengfurry@163.com
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoYu2733&layout=compact)
 
