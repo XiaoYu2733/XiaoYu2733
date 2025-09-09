@@ -14,7 +14,7 @@
 
 ### 擅长Java lua js 等等 更多正在学习中……😴
 
-### 你可以通过 [Telegam_PM_Bot](https://t.me/HaiFengFurry_bot)来找到我 或许更方便的是：haifengfurry@163.com
+### 你可以通过 [Telegam_PM_Bot](https://t.me/HaiFengFurry_bot) 来找到我 或许更方便的是：haifengfurry@163.com
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoYu2733&layout=compact)
 
