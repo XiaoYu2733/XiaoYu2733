@@ -2,15 +2,11 @@
     <h1 > Hi 这里是海枫的个人主页哦
  </h1>
 
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Channel&color=0088cc)](https://t.me/HaiFeng_Channel)
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc)](https://t.me/XiaoYu_Chat)
-</div>
+### 性别:不告诉你
+### 国籍:China
+### 学籍:高中生
 
-### 性别:未知🤔
-### 国籍:China🇨🇳
-### 学籍:高中生哦☺️
-
-### QStory Plugin Developer🐧
+### QStory
 
 ### 目前只擅长Java 更多正在学习中……😴
 
