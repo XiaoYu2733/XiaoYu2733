@@ -6,7 +6,7 @@
 ##
 
 ### 联系方式
-### 📧 邮箱 haifengfurry@163.com & Telegan@HaiFengFurry
+#### 📧 邮箱 haifengfurry@163.com & Telegan@HaiFengFurry
 
 ## 其他
 ### 💫 爱好 💤 & 🎶
