@@ -8,4 +8,4 @@
 
 ### 💫 爱好 💤 & 🎶
 
-### ❤️ @[Telegan:https://t.me/HaiFeng_Channel]
+### ❤️ 
