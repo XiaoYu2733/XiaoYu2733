@@ -5,8 +5,7 @@
 ### 💻 开发 Java & Python&lua & js
 ##
 
-## 联系方式
-### 📧 邮箱 haifengfurry@163.com & Telegan@HaiFengFurry
+## 联系方式\n### 📧 邮箱 haifengfurry@163.com & Telegan@HaiFengFurry
 
 ### 💫 爱好 💤 & 🎶
 
