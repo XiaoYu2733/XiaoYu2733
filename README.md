@@ -4,8 +4,10 @@
 
 ### 💻 开发 Java & Python 🫧
 
-### 📧 邮箱 haifengfurry@163.com & Telegan@HaiFengFurry 💎
+### 📧 邮箱 haifengfurry@163.com 🛠️
+
+### 🧩 联系 Telegan@HaiFengFurry 💎
 
 ### 💫 爱好 💤 & 🎶
 
-### ❤️ 
+### ❤️ 世界上最稳定的关系就是没有关系
