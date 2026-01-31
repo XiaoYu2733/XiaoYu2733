@@ -4,6 +4,8 @@
 
 ### 💻 开发 Java & Python 🫧
 
+### 🤗 维护 [QStory](https://github.com/Xposed-Modules-Repo/lin.xposed)
+
 ### 📧 邮箱 haifengfurry@163.com 🛠️
 
 ### 🧩 联系 Telegram@HaiFeng_0823 💎
