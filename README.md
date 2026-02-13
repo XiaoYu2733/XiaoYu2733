@@ -2,7 +2,7 @@
 
 ### 💬 语言 English & Chinese 欢迎交流 🧸
 
-### 💻 开发 Java & Python 🫧
+### 💻 开发 Java & Kotlin 🫧
 
 ### 🤗 维护 [QStory](https://github.com/Xposed-Modules-Repo/lin.xposed)
 
