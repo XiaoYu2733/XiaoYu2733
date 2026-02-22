@@ -13,3 +13,6 @@
 ### 💫 爱好 💤 & 🎶
 
 ### ❤️ [行空](https://github.com/XKong-X)
+
+## 统计信息
+![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=XiaoYu2733&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)  
