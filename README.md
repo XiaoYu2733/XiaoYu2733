@@ -1,10 +1,10 @@
 ## Hi👋 欢迎来看海枫的个人主页哦 👀
 
-💻 开发 Java & Kotlin
+开发语言 Java & Kotlin
 
-📧 邮箱 haifengfurry@163.com
+邮箱地址 haifengfurry@163.com
 
-🧩 联系 Telegram@HaiFeng_0823
+联系方式 Telegram@HaiFeng_0823
 
 统计信息 有喜欢的项目会努力助力开发的 学习路漫漫
 
