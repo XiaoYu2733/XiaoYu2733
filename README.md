@@ -10,6 +10,4 @@
 
 ![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=XiaoYu2733&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) 
 
--[![GitHub Streak] (https://streak-stats.demolab.com/?user=XiaoYu2733)]( https://git.io/streak-stats) 
-
 you were my life (你曾是我的一切)
